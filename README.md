@@ -3,6 +3,7 @@
 This project was submitted to the [Kaggle Spaceship Titanic competition](https://www.kaggle.com/competitions/spaceship-titanic), a classification challenge focused on predicting the fate of passengers affected by a space-time anomaly aboard an interstellar ship.
 
 📊 **Final Score:** `0.80289` (Kaggle Public Leaderboard)
+![Final Score Screenshot](Images/finalscore.png)
 
 ---
 
